@@ -5,19 +5,6 @@ My name is Mehrdad Farahani [(Pronounce me)](https://www.nameshouts.com/names/pe
 
 ![Mehrdad's github stats](https://github-readme-stats.vercel.app/api?username=m3hrdadfi&show_icons=true&theme=solarized-dark)
 
-**Skills:**
-
-- Programming Languages: Python, Javascript, Unix shell scripts.
-- Scientific Assets: TensorFlow, Keras, PyTorch, Scikit-Learn, Rapidminer, Matlab.
-- Cloud Platforms: GCP.
-- Development Assets: Django, Flask, Docker.
-- Visualization Libraries: Matplotlib, OpenCV.
-- Databases: PostgreSQL, MongoDB, SQLite.
-- Typography: LaTex, LibreOffice/OpenOffice, Microsoft Office.
-- Operating Systems: Linux/Unix, Mac OS X.
-- Source Code Versions: Git, SVN.
-- Software Development Methods: Kanban, Scrum.
-
 
 🔎  I am currently seeking new opportunities as a Deep Learning Engineer, Machine Learning Engineer, or Researcher.
 
