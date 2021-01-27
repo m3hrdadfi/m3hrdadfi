@@ -5,6 +5,7 @@ My name is Mehrdad Farahani [(Pronounce me)](https://www.nameshouts.com/names/pe
 <!-- ![Mehrdad's github stats](https://github-readme-stats.vercel.app/api?username=m3hrdadfi&show_icons=true&theme=vue) -->
 
 🔔 &nbsp;&nbsp; Update: I am working on the Text Generative model and making a Sci-BERT version for Persian (it's almost done).
+
 🔎 &nbsp;&nbsp; I am currently seeking new opportunities as a Deep Learning Engineer, Machine Learning Engineer, or Researcher in the academic environments.
 
 **Keywords:** `NLP`, `Deep Learning`, `Machine Learning`, `Data Mining`, `AI`
