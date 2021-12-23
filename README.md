@@ -6,4 +6,4 @@ It's me, Mehrdad Farahani [(Pronounce me)](https://www.nameshouts.com/names/pers
 
 <!-- 🔎 &nbsp;&nbsp;  I am currently seeking new opportunities as a Deep Learning Engineer, Machine Learning Engineer, or Researcher, Ph.D. position in academic environments (Full-Time). -->
 
-**Keywords:** `NLP`, `NLI`, `NLU`, `Deep Learning`, `Machine Learning`, `Data Mining`, `AI`
+**Keywords:** `NLP`, `Audio`, `Deep Learning`, `Machine Learning`, `Data Mining`, `AI`
