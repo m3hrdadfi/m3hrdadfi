@@ -1,9 +1,19 @@
-### Hi There 👋
+### Hi There 👋 , I'm [Mehrdad Farahani](https://app2.nameshouts.com/names/public/pronounce-mehrdad-farahani). 
 
-It's me, Mehrdad Farahani [(Pronounce me)](https://www.nameshouts.com/names/persian/pronounce-mehrdad-farahani). I am passionate about high-tech solutions to real-world problems with my previous NLP, Deep Learning, and Machine Learning skills. I have collaborated as a researcher, Deep Learning Engineer, and NLP Engineer with over 3+ years of experience in academic, startup, and research environments. I put my effort into the natural language field in the last few years since I believe artificial intelligence will inevitably affect all aspects of our lives sooner or later, specifically how humans communicate and share their knowledge.
+
+I'm interested in natural language processing and representation learning for conversational AI because I believe AI will inevitably affect all aspects of our lives sooner or later, mainly how we communicate and share knowledge. 
+
+I started my PhD position at Chalmers University of Technology in 2022. The purpose of my PhD is to explore whether general representations of spoken conversation can be learned through self-supervised learning.
+
+**You can also follow me on:**
+- [Twitter](https://twitter.com/m3hrdadfi)
+- [Huggingface](https://huggingface.co/m3hrdadfi)
+- [Linkedin](https://linkedin.com/in/m3hrdadfi/)
+- [Google Scholar](https://scholar.google.com/citations?user=0raqKZEAAAAJ&hl=en)
+- [Researchgate](https://www.researchgate.net/profile/Mehrdad-Farahani-2)
 
 <!-- ![Mehrdad's github stats](https://github-readme-stats.vercel.app/api?username=m3hrdadfi&show_icons=true&theme=vue) -->
 
 <!-- 🔎 &nbsp;&nbsp;  I am currently seeking new opportunities as a Deep Learning Engineer, Machine Learning Engineer, or Researcher, Ph.D. position in academic environments (Full-Time). -->
 
-**Keywords:** `NLP`, `Audio`, `Deep Learning`, `Machine Learning`, `Data Mining`, `AI`
+**Research Interests:** `Natural Language Processing`, `Representation Learning`
