@@ -3,7 +3,7 @@
 
 I'm interested in natural language processing and representation learning for conversational AI because I believe AI will inevitably affect all aspects of our lives sooner or later, mainly how we communicate and share knowledge. 
 
-I started my PhD position at Chalmers University of Technology in 2022. The purpose of my PhD is to explore whether general representations of spoken conversation can be learned through self-supervised learning.
+I started my PhD position at [Chalmers University of Technology](https://www.chalmers.se/en/Staff/Pages/mehrdadf.aspx) in 2022. The purpose of my PhD is to explore whether general representations of spoken conversation can be learned through self-supervised learning.
 
 **You can also follow me on:**
 - [Twitter](https://twitter.com/m3hrdadfi)
