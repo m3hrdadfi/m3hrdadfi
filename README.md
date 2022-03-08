@@ -1,4 +1,4 @@
-### Hi There 👋 , I'm [Mehrdad Farahani](https://app2.nameshouts.com/names/public/pronounce-mehrdad-farahani). 
+### Hi There 👋 , I'm [Mehrdad Farahani](https://app2.nameshouts.com/names/public/pronounce-mehrdad-farahani)
 
 
 I'm interested in natural language processing and representation learning for conversational AI because I believe AI will inevitably affect all aspects of our lives sooner or later, mainly how we communicate and share knowledge. 
