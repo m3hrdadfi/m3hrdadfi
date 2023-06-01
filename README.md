@@ -3,7 +3,7 @@
 
 I'm interested in natural language processing and representation learning for conversational AI because I believe AI will inevitably affect all aspects of our lives sooner or later, mainly how we communicate and share knowledge. 
 
-My PhD at [Chalmers University of Technology](https://www.chalmers.se/en/Staff/Pages/mehrdadf.aspx) began in 2022 under [Richard Johansson (CTH)](http://www.cse.chalmers.se/~richajo/) and [Gabriel Skantze (KTH)](https://www.kth.se/profile/skantze) supervision. [The purpose of my PhD](http://www.cse.chalmers.se/~richajo/rlfcai.html) is to explore whether general representations of spoken conversation can be learned through self-supervised learning.
+My PhD at [Chalmers University of Technology](https://www.chalmers.se/en/persons/mehrdadf) began in 2022 under [Richard Johansson (CTH)](http://www.cse.chalmers.se/~richajo/) and [Gabriel Skantze (KTH)](https://www.kth.se/profile/skantze) supervision. [The purpose of my PhD](https://www.cse.chalmers.se/~richajo/projects/wasp2022.html) is to explore whether general representations of spoken conversation can be learned through self-supervised learning.
 
 **You can also follow me on:**
 - [Twitter](https://twitter.com/m3hrdadfi)
