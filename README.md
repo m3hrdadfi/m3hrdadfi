@@ -1,9 +1,7 @@
 ### Hi There 👋 , I'm [Mehrdad Farahani](https://app2.nameshouts.com/names/public/pronounce-mehrdad-farahani)
 
 
-I am currently in the third year of my PhD at Chalmers University of Technology, which I began in 2022 under the supervision of [Richard Johansson (CHT)](https://www.cse.chalmers.se/~richajo/index.html) and [Gabriel Skantze (KTH)](https://www.kth.se/profile/skantze) as part of "[Representation Learning for Conversational AI](https://www.cse.chalmers.se/~richajo/projects/wasp2022.html)," project funded by [WASP](https://wasp-sweden.org/).
-
-The main project goal is essentially to investigate how general representations can be learned in a self-supervised manner. It has many phases, including _Data consolidation_, _Representation learning_, _Model analysis_, and _Evaluation on downstream tasks_. I have decided to focus on smaller parts of this big puzzle. As a result, my research is now centered on the **controllability** and **interpretability** of language models within Conversational AI.
+I am currently in the third year of my PhD at Chalmers University of Technology, which I began in 2022 under the supervision of [Richard Johansson (CHT)](https://www.cse.chalmers.se/~richajo/index.html) and [Gabriel Skantze (KTH)](https://www.kth.se/profile/skantze) as part of "[Representation Learning for Conversational AI](https://www.cse.chalmers.se/~richajo/projects/wasp2022.html)," project funded by [WASP](https://wasp-sweden.org/). My research is centered on the **controllability** and **interpretability** of language models within Conversational AI.
 
 
 **You can also follow me on:**
